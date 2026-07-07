@@ -1,0 +1,25 @@
+body {
+margin: 0;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container {
+text-align: center;
+}
+
+h1 {
+font-family: Arial, sans-serif;
+font-size: 40px;
+font-weight: normal;
+}
+
+p {
+font-size: 20px;
+}
+
+img {
+max-width: 100%;
+}
